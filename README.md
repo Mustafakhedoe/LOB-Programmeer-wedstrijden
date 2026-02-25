@@ -1,5 +1,5 @@
 # LOB-Programmeer-wedstrijden
 Met Astro website
 
-Eerst mockup en fucntioneel design
-Maak het website zodat de gebruiker weet naar de guiz wat zijn passende keuze is. 
+Eerst mockup en functioneel design
+Maak het website zodat de gebruiker weet naar de quiz wat zijn passende keuze is. 
